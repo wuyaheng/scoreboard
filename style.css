@@ -1,0 +1,9 @@
+button:focus,:active {
+    box-shadow: none !important;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    
+}
